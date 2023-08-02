@@ -1,4 +1,4 @@
-Welcome to my first-ever mobile development project: **"My Contact Hub" Flutter App!**
+Welcome to my first-ever mobile development project: **"Sharjeel M." Flutter App!**
 
 📱 About the App:
 MyContactHub is a sleek and user-friendly Flutter app designed to help you easily access all my contact details in one place. Stay connected and reach out to me effortlessly through this app. Whether it's for professional inquiries or just to say hello, you'll have all the necessary information at your fingertips.
